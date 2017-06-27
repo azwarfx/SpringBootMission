@@ -1,0 +1,4 @@
+com/contoh/ContohApplication.class
+com/contoh/security/WebSecurityConfig.class
+com/contoh/security/MvcConfig.class
+com/contoh/controller/HelloController.class
